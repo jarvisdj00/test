@@ -4,7 +4,7 @@ This Portfolio is a small project using HTML / CSS and Bootsrap. I will be using
 [Live Portfolio Deployment](https://test.jarvisdj00.repl.co/)
 
 
- <img width="1080" alt="image" src="">
+ <img width="1080" alt="image" src="https://github.com/jarvisdj00/test/blob/main/img/Screenshot_20221229_045727.png">
 
 ## Technologies used
 
